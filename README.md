@@ -66,6 +66,16 @@ Idéal pour :
 
 ---
 
+## 📍 Configuration du weboock notification
+
+Ajouter votre weboock configurables dans le dossier karting coter :
+
+```serveur.lua
+local WEBHOOK_URL = "#Lien du webhooks#" <--Remplacer (#Lien du webhooks#) part votre Lien
+```
+
+---
+
 ## 📥 Installation
 
 ### 1️⃣ Télécharger le dossier
