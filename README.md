@@ -45,11 +45,14 @@ Idéal pour :
   👉 https://github.com/overextended/ox_lib  
 
 - 🔹 **ox_target**  
-  👉 https://github.com/overextended/ox_target  
+  👉 https://github.com/overextended/ox_target
+
+- 🔹 **ESX**  
+  👉 https://github.com/mitlight/es_extended
 
 - 🔹 FXServer (FiveM)
 
-⚠️ Assurez-vous que `ox_lib` et `ox_target` sont installés et démarrés avant le dossier.
+⚠️ Assurez-vous que `ox_lib` et `ox_target` et `es_extended` sont installés et démarrés avant le dossier.
 
 ---
 
@@ -59,7 +62,6 @@ Idéal pour :
 - ✔️ Standalone  
 - ✔️ Serveur RP  
 - ✔️ ESX  
-- ✔️ QBCore  
 - ✔️ OneSync
 - ✔️ ox_lib
 - ✔️ ox_target
